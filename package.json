@@ -131,7 +131,7 @@
     "@types/text-table": "0.2.0",
     "@zeit/dockerignore": "0.0.3",
     "@zeit/git-hooks": "0.1.4",
-    "@zeit/ncc": "0.8.1",
+    "git://github.com/c316/ncc": "0.8.1",
     "@zeit/source-map-support": "0.6.2",
     "alpha-sort": "2.0.1",
     "ansi-escapes": "3.0.0",
